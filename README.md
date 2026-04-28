@@ -279,10 +279,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - TensorFlow/Keras for deep learning framework
 - Flask for web framework
 
-## 📞 Support
 
-For support and questions:
-- Contact: lsandun119@gmail.com
  
 
 ---
